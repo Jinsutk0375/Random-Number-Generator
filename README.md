@@ -9,7 +9,7 @@
 This project is a simple **random number generator** using a **555 timer IC** in astable mode, a **4026 decade counter IC**, and a **7-segment display**. The 555 timer generates clock pulses that drive the 4026 counter, which cycles through numbers **0 to 9** rapidly. When a push button is pressed, the counting stops, displaying a "random" number on the 7-segment display.  
 
 ## 📹 Project Video  
-[![Watch Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/user-attachments/assets/0d82a3a7-786d-4da2-90c7-284dea3a67ec)  
+[![Watch Video](https://github.com/user-attachments/assets/938a7a37-ec61-4d7e-9ad2-bc1f2bd4c9a2)](https://github.com/user-attachments/assets/938a7a37-ec61-4d7e-9ad2-bc1f2bd4c9a2)  
 
 ## ⚙️ Components Required  
 - **555 Timer IC** (for clock pulse generation)  
